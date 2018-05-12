@@ -1,0 +1,41 @@
+_repo: The-Cruise-of-the-Mary-Rose--Or-Here-and-There-in-the-Pacific_21457
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pearse, Alfred
+    alias: Pearse, A.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '9928'
+    url: http://www.gutenberg.org/2009/agents/9928
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Islands of the Pacific -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Islands of the Pacific -- Fiction'
+title: The Cruise of the Mary Rose; Or, Here and There in the Pacific
+url: http://www.gutenberg.org/ebooks/21457
